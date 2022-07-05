@@ -7,10 +7,4 @@
       side (double): the side of the square
 */
 
-void main() {
-  print(func(16));
-}
-
-func(a) {
-  return a / 4;
-}
+void main() {}
