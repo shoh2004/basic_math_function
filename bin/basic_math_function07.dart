@@ -8,6 +8,3 @@ Create function named func with a argument
 */
 
 void main() {}
-func(a) {
-  return a.toString().length;
-}
