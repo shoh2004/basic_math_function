@@ -76,14 +76,13 @@ Output: 4
 
 ## math_func05
 
-  Convert the number from radians to degrees.
   Multiply one number by the cosine of another number.
 
 **Example 1:**
 
 ```Python
-Input: x=10 y=4
-Output: 9.98
+Input: x=8 y=pi/3
+Output: 4
 
 ```
 
