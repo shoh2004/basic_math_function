@@ -61,14 +61,13 @@ Output: 16
 
 ## math_func04
 
-  Convert the number from radians to degrees.
   Multiply one number by the sine of another number.
 
 **Example 1:**
 
 ```Python
-Input: x=8 y=27
-Output: 3.63
+Input: x=8 y=pi/6
+Output: 4
 
 ```
 
@@ -93,14 +92,14 @@ Output: 9.98
 
 ## math_func06
 
-  Convert the number from radians to degrees.
-  Multiply one number by the cosine of another number.
+  Raise cosine of x and the sine of y to the second power
+  Round the result before returning the sum of the raised values
 
 **Example 1:**
 
 ```Python
-Input: x=4 y=39
-Output: 3.24
+Input: x=pi/3 y=pi/3
+Output: 1.0
 
 ```
 
