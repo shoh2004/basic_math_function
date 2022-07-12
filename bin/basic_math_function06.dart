@@ -12,7 +12,7 @@ import "dart:math";
 num func(double x,double y){
     return (pow(sin(x),2)+pow(sin(y),2)).round();
 }
-void main(){
+void main(){ 
     print(func(4,39));
 }
 
