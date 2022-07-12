@@ -9,7 +9,7 @@
 
 double func(t){
   double s=t*1/4;
-  return s;
+  return s; 
 }
 
 void main() {print(func(16));
