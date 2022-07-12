@@ -7,4 +7,11 @@
       side (double): the side of the square
 */
 
-void main() {}
+double func(t){
+  double s=t*1/4;
+  return s;
+}
+
+void main() {print(func(16));
+}
+
